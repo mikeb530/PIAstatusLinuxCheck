@@ -8,7 +8,7 @@ from datetime import datetime as dt
 import time
 
 counter = 100
-process = 'transmission'
+process = 'NAME OF APPLICATION TO KILL'
 
 while True:
     url = 'https://www.privateinternetaccess.com/?now=' + str(dt.now())
